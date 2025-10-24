@@ -4,11 +4,6 @@ This repository demonstrates **Linux performance profiling** of a simple **key-v
 
 ---
 
-## 📁 Repository
-**GitHub:** [key-value-store-profiling-using-perf](https://github.com/Almas-zayn/key-value-store-profiling-using-perf)
-
----
-
 ## 🧠 Overview
 
 The goal of this project is to understand how the **Linux kernel interacts** with user-space code during the execution of a simple key-value store server.  
